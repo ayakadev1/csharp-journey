@@ -9,3 +9,4 @@
 - `03-math` — математические операции, класс Math, задачи
 - `04-conditions` — условия if/else, switch-case, задачи
 - `05-loops` — циклы for/while, break, задачи
+- `06-arrays` — массивы, циклы, задачи
